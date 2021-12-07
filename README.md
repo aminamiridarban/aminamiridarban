@@ -132,8 +132,4 @@ Familiar & Experienced
 Delphi 7
 SVG
 
-Experienced version 1.0 - 2.0
-<!---
-aminamiridarban/aminamiridarban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
