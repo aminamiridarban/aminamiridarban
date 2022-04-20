@@ -2,7 +2,7 @@ Hello, This is Amin Amiri Darban. I'm a Full-Stack Web & dotNet Development Team
 
 Summary About Me : 
 
-I'm Effort to improved effectively working to achieve goals as both a cross-functional team member and individual contributor, While I enhanced interpersonal experiences on working as full stack software developer. In addition, I always trying to be creative & use smart ways to done the jobs.
+I'm strive to improved effectively working to achieve goals as both a cross-functional team member and individual contributor, While I enhanced interpersonal experiences on working as full stack software developer. In addition, I always trying to be creative & use smart ways to done the jobs.
 I Accomplished experienced development technical lead, with a demonstrated history of working in Analyze, Design, Develop and Implementing maintainable Websites/Web Applications and Automation.
 Skilled in Search Engine Optimization (SEO), Ui/Ux, Web Development, Integrated Marketing, .Net FrameWork & .Net Core, JavaScript and JQuery, Ajax, JSON, Web API, Web Services and Microservices.
 I've a Bachelor's degree, focused on Computer Software Engineering Technology.
